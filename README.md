@@ -1,2 +1,2 @@
 # Statistics-Analysis-Numpy
-Statistical data analysis practice using python, numpy
+Statistical data analysis carried out using python, numpy, scipy etc
